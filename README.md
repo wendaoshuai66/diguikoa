@@ -4,6 +4,9 @@
 
 2.node app.js
 
+# 阅读KOA
+请查看 [该文分析](https://wendaoshuai66.github.io/study/note/index.html#docs/KOA%E6%BA%90%E7%A0%81%E7%9A%84%E9%98%85%E8%AF%BB)
+
 # 详解 
 
 ##编写 application 文件
